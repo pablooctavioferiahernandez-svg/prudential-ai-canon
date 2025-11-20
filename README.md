@@ -1,67 +1,43 @@
-### DOI Badge
+# **The Foundational Canon of the Prudential AI Era**  
+### *Thalet • CAL • LexaryNova • LPP/LVM • PIP*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17661964.svg)](https://doi.org/10.5281/zenodo.17661964)
 
-The formally published version is available on Zenodo  
-→ https://doi.org/10.5281/zenodo.17661964
-# The Foundational Canon of the Prudential AI Era
-### Thalet, CAL, LexaryNova and the Rise of Prudential Architectures
+---
 
-This repository hosts the canonical whitepaper that inaugurates the field of **Prudential AI**.
+## 📘 **Overview**
 
-The canon introduces a unified prudential-reflexive architecture composed of:
+This repository hosts the canonical whitepaper that inaugurates the field of **Prudential AI**, establishing the first unified prudential–reflexive architecture for intelligent systems.
 
-- **Thalet** — prudential reflexive infrastructure  
-- **CAL (Canonical Algorithmic Legitimacy)** — normative computing grammar  
-- **Prudential AI** — new epistemic field  
-- **LexaryNova** — juridical-informational substrate  
-- **LPP / LVM** — methodological backbone (pre-action / post-action prudential procedures)  
-- **PIP (Principle of Prudential Interoperability)** — keystone for interoperability across layers
+The work introduces a multi-layer prudential framework designed to sustain coherence, proportionality, legitimacy, and temporally-extended responsibility inside artificial intelligence systems.
+
+The formally published version is preserved on **Zenodo**:  
+➡️ https://doi.org/10.5281/zenodo.17661964
 
 ---
 
-## 📄 Canonical PDF (v1.0.0)
+## 🧩 **Core Components of the Prudential Architecture**
 
-- `canonical_pdf/The_Foundational_Canon_of_the_Prudential_AI_Era.pdf`
+### **Thalet**  
+Prudential reflexive infrastructure enabling internal normative deliberation within AI systems.
 
-### DOI Badge
+### **CAL — Canonical Algorithmic Legitimacy**  
+The first normative computing grammar for structural legitimacy in algorithmic action.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17661964.svg)](https://doi.org/10.5281/zenodo.17661964)
+### **Prudential AI**  
+A new epistemic field redefining responsibility, governance, and decision-making for advanced AI.
 
-The formally published version is available on Zenodo  
-→ https://doi.org/10.5281/zenodo.17661964
+### **LexaryNova**  
+A juridical-informational substrate enabling cross-layer semantic and normative stability.
 
----
+### **LPP / LVM**  
+Methodological backbone for pre-action and post-action prudential procedures.
 
-## 📚 Citation
-
-If you use this work, please cite it as:
-
-```bibtex
-@misc{FeriaHernandez2025PrudentialCanon,
-  author    = {Pablo Octavio Feria Hernández},
-  title     = {The Foundational Canon of the Prudential AI Era},
-  year      = {2025},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.17661964},
-  url       = {https://doi.org/10.5281/zenodo.17661964}
-}
+### **PIP — Principle of Prudential Interoperability**  
+The keystone that enables coherent integration across prudential, computational, legal, and reflexive layers.
 
 ---
 
-# ✅ **3. CITATION.cff (lista para crear el archivo)**
+## 📄 **Canonical PDF (v1.0.0)**  
+Ruta del archivo:
 
-Crea un archivo nuevo llamado `CITATION.cff` y pega esto:
-
-```yaml
-cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-title: "The Foundational Canon of the Prudential AI Era"
-version: "1.0.0"
-doi: "10.5281/zenodo.17661964"
-authors:
-  - family-names: "Feria Hernández"
-    given-names: "Pablo Octavio"
-date-released: "2025-11-20"
-license: "CC-BY-4.0"
-url: "https://doi.org/10.5281/zenodo.17661964"
