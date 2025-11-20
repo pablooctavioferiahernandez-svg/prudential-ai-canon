@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Foundational Canon of the Prudential AI Era"
+version: "1.0.0"
+doi: "10.5281/zenodo.17661964"
+authors:
+  - family-names: "Feria Hernández"
+    given-names: "Pablo Octavio"
+date-released: "2025-11-20"
+license: "CC-BY-4.0"
+url: "https://doi.org/10.5281/zenodo.17661964"
